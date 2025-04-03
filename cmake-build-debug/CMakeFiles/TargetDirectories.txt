@@ -1,0 +1,3 @@
+C:/Users/aceta/CLionProjects/ass4problem2/cmake-build-debug/CMakeFiles/ass4problem2.dir
+C:/Users/aceta/CLionProjects/ass4problem2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aceta/CLionProjects/ass4problem2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
